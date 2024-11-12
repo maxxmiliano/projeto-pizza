@@ -1,4 +1,4 @@
-# projeto-pizza
+# projeto-pizza ainda em construção 🚧 
 https://maxxmiliano.github.io/projeto-pizza/
 ## inicio de um projeto para meu aprendizado
 ### tecnologias usadas no projeto
